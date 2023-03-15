@@ -1,0 +1,11 @@
+#include <iostream>
+#include "bigint.h"
+
+using namespace std;
+
+
+
+int main() {
+	bigint a = 456;
+	cout << a << endl;
+}
