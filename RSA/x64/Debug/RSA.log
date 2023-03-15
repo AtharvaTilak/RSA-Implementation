@@ -1,0 +1,10 @@
+﻿  source1.cpp
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(78,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(106,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(158,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(321,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(551,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(649,11): warning C4018: '>': signed/unsigned mismatch
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(751,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\BigNumber.h(834,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RSA.vcxproj -> D:\FT42\Tasks\Task 2 RSA Algorithm\RSA\x64\Debug\RSA.exe
